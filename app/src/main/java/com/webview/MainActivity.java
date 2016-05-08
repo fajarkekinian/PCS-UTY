@@ -17,7 +17,7 @@ import android.webkit.WebViewClient;
 public class MainActivity extends AppCompatActivity {
 
     //Define URL
-    private static final String URL = "http://192.168.1.101/webview/";
+    private static final String URL = "http://192.168.100.6/json-crud";
     //Define WebView
     private WebView webView;
 
